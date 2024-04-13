@@ -1,14 +1,16 @@
 # ThriftBuddy Marketplace App
 
 ## Screenshot
-![Login Page](screenshots/login.png)
-![SignUp Page](screenshots/signup.png)
-![Home Page](screenshots/home.png)
-![Product Page](screenshots/allproduct.png)
-![Category Page](screenshots/category.png)
-![Sell/Post Page](screenshots/sell.png)
-![Chat Page](screenshots/chat.png)
-![Profile Page](screenshots/profile.png)
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+    <img src="screenshots/login.png" alt="Login Page" style="width: 100%;">
+    <img src="screenshots/signup.png" alt="SignUp Page" style="width: 100%;">
+    <img src="screenshots/home.png" alt="Home Page" style="width: 100%;">
+    <img src="screenshots/allproduct.png" alt="Product Page" style="width: 100%;">
+    <img src="screenshots/category.png" alt="Category Page" style="width: 100%;">
+    <img src="screenshots/sell.png" alt="Sell/Post Page" style="width: 100%;">
+    <img src="screenshots/chat.png" alt="Chat Page" style="width: 100%;">
+    <img src="screenshots/profile.png" alt="Profile Page" style="width: 100%;">
+</div>
 
 
 ## Objective
