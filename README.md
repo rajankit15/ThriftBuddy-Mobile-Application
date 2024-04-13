@@ -11,9 +11,11 @@ ThriftBuddy Marketplace simplifies buying and selling secondhand items with a di
 
 ## Features
 - User authentication for secure login
-- Product browsing with detailed descriptions
+- Product listing with detailed descriptions
 - Cart management for easy purchasing
 - Order tracking to monitor purchases
+- In-app chat feature for communication between buyers and sellers
+- Buying/selling through chat for convenient transactions
 - Streamlined user interface for simplicity
 
 ## Getting Started
