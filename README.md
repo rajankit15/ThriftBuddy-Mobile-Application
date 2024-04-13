@@ -4,15 +4,15 @@
 <table>
   <tr>
     <td><img src="screenshots/login.png" alt="Login Page" width="290" height="480"></td>
-    <td><img src="screenshots/signup.png" alt="SignUp Page" width="270" height="480"></td>
-    <td><img src="screenshots/home.png" alt="Home Page" width="270" height="480"></td>
-    <td><img src="screenshots/allproduct.png" alt="Product Page" width="270" height="480"></td>
+    <td><img src="screenshots/signup.png" alt="SignUp Page" width="290" height="480"></td>
+    <td><img src="screenshots/home.png" alt="Home Page" width="290" height="480"></td>
+    <td><img src="screenshots/allproduct.png" alt="Product Page" width="290" height="480"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/category.png" alt="Category Page" width="270" height="480"></td>
-    <td><img src="screenshots/sell.png" alt="Sell/Post Page" width="270" height="480"></td>
-    <td><img src="screenshots/chat.png" alt="Chat Page" width="270" height="480"></td>
-    <td><img src="screenshots/profile.png" alt="Profile Page" width="270" height="480"></td>
+    <td><img src="screenshots/category.png" alt="Category Page" width="290" height="480"></td>
+    <td><img src="screenshots/sell.png" alt="Sell/Post Page" width="290" height="480"></td>
+    <td><img src="screenshots/chat.png" alt="Chat Page" width="290" height="480"></td>
+    <td><img src="screenshots/profile.png" alt="Profile Page" width="290" height="480"></td>
   </tr>
 </table>
 
