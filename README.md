@@ -1,5 +1,8 @@
 # ThriftBuddy Marketplace App
 
+# Android Apk Download Link
+<a href="https://drive.google.com/file/d/1JCyEtv7mgv6Cx2Rucc2AEVUyUCXoMr63/view?usp=drive_link">Android Apk Link</a>
+
 ## Screenshot
 <table>
   <tr>
