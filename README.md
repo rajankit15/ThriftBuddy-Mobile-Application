@@ -3,7 +3,7 @@
 ## Screenshot
 <table>
   <tr>
-    <td><img src="screenshots/login.png" alt="Login Page" width="290" height="480"></td>
+    <td><img src="screenshots/login.png" alt="Login Page" width="320" height="450"></td>
     <td><img src="screenshots/signup.png" alt="SignUp Page" width="270" height="480"></td>
     <td><img src="screenshots/home.png" alt="Home Page" width="270" height="480"></td>
     <td><img src="screenshots/allproduct.png" alt="Product Page" width="270" height="480"></td>
