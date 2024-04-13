@@ -19,15 +19,14 @@ ThriftBuddy Marketplace simplifies buying and selling secondhand items with a di
 ## Getting Started
 To get started with the ThriftBuddy Marketplace App, follow these steps:
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies using `npm install`.
-3. Start the development server using `npm start`.
+2. Install the necessary dependencies using `flutter pub get`.
+3. Start the development server using `flutter run`.
 4. Open the app in your preferred mobile emulator or device.
 
 ## Technologies Used
-- React Native for cross-platform mobile app development
+- Flutter/Dart for cross-platform mobile app development
 - Firebase for user authentication and database management
 - Redux for state management
-- React Navigation for app navigation
 
 ## Contributing
 Contributions are welcome! If you have any ideas for improving the ThriftBuddy Marketplace App, feel free to submit a pull request or open an issue.
