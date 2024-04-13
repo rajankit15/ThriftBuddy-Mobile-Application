@@ -13,6 +13,7 @@
 </div>
 
 
+
 ## Objective
 The primary goal of the ThriftBuddy Marketplace App is to develop a user-friendly mobile application that simplifies the process of buying and selling second-hand items. The app aims to provide an intuitive platform connecting sellers and buyers, emphasizing simplicity and ease of use.
 
